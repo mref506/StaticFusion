@@ -1,6 +1,6 @@
 # StaticFusion
 
-**StaticFusion** is a lightweight Python tool created by **Enock** to build production-ready static HTML websites from modular components like headers and footers.
+**StaticFusion** is a lightweight Python tool to build production-ready static HTML websites from modular components like headers and footers.
 
 
 ## 🔧 Features
